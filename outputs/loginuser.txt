@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100     51   0      0 100     51      0     50   00:01   00:01             50100    106 100     55 100     51     48     45   00:01   00:01             50100    106 100     55 100     51     48     45   00:01   00:01             50100    106 100     55 100     51     48     45   00:01   00:01             50
+{"message":"Login successful","token":"fake-token-123"}

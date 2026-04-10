@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100     62 100     62   0      0   6424      0                              0100     62 100     62   0      0   4827      0                              0100     62 100     62   0      0   4290      0                              0
+[{"id":1,"name":"Chicago Auto","state":"IL","city":"Chicago"}]

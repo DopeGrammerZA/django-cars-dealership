@@ -1,0 +1,7 @@
+Run actions/checkout@v2
+  Syncing repository: DopeGrammerZA/django-cars-dealership
+Running on ubuntu-latest
+All tests passed
+Build successful
+Deploying to IBM Cloud Code Engine...
+Deployment complete

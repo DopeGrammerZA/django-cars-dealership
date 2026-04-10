@@ -1,0 +1,4 @@
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0100     60 100     60   0      0   8022      0                              0100     60 100     60   0      0   6700      0                              0100     60 100     60   0      0   5921      0                              0
+{"id":2,"name":"Dealer 2","state":"KS","city":"Kansas City"}
